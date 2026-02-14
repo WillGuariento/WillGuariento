@@ -28,6 +28,19 @@ Busco oportunidade de **estágio em programação** para evoluir tecnicamente e 
 
 ---
 
+## ⭐ Projetos em Destaque
+
+🔹 [Pokédex](https://github.com/WillGuariento/dio-pokedex)  
+Aplicação web com consumo de API e paginação dinâmica.
+
+🔹 [Clone Discord](https://github.com/WillGuariento/dio-clone-discord)  
+Interface responsiva inspirada no Discord.
+
+🔹 [Jogo Yu-Gi-Oh](https://github.com/WillGuariento/dio-yugioh)  
+Jogo interativo desenvolvido em JavaScript.
+
+---
+
 ## 🌱 Atualmente Aprendendo
 - JavaScript
 - React
