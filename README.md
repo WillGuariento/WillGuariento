@@ -28,13 +28,6 @@ Busco oportunidade de **estágio em programação** para evoluir tecnicamente e 
 
 ---
 
-## 📊 Estatísticas do GitHub
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillGuariento&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🌱 Atualmente Aprendendo
 - JavaScript
 - React
